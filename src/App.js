@@ -17,6 +17,11 @@ function App() {
         description="Learn components, JSX, and props."
         trainer="David"
       />
+      <Card
+        title="React Basics"
+        description="Learn components, JSX, and props."
+        trainer="Davisdcsd"
+      />
 
       <Card
         title="React Hooks"
