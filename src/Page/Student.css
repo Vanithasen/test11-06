@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  width: 300px;
+  margin: 15px auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.completed {
+  color: green;
+  font-weight: bold;
+}
+
+.pending {
+  color: red;
+  font-weight: bold;
+}
